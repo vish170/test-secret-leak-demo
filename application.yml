@@ -1,0 +1,7 @@
+security:
+organization: airtel_test
+domain: acme-sec-test.example
+jwt:
+secret: acme-sec-test-yaml-jwt-secret-123456789
+headers:
+x-api-key: x_api_key_acme_sec_test_abcdef123456
