@@ -12,5 +12,6 @@ app.use("/api/payments", paymentRoutes);
 
 
 app.listen(3000, () => {
-console.log("acme-sec-test backend running on port 3000");
+console.log("digi-api.airtel.in backend running on port 3000");
+
 });
