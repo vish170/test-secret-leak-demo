@@ -4,4 +4,10 @@ domain: acme-sec-test.example
 jwt:
 secret: acme-sec-test-yaml-jwt-secret-123456789
 headers:
+
 x-api-key: x_api_key_acme_sec_test_abcdef123456
+
+private static final String EMAIL_API_URL =
+            "http://notification.internal.airtel.tv/notification/v1/";
+    private static final String AUTH_USERNAME = "prodadmintest";
+    private static final String AUTH_PASSWORD = "prodadmintest";
